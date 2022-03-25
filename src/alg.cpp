@@ -47,5 +47,5 @@ int countPairs3(int *arr, int len, int value) {
         left = mid;
     }
   }
-  return sym
+  return sym;
 }
